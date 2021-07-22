@@ -1,0 +1,27 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Enviroments
+*.env*
+!.env.*example*
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/terraform
+# Edit at https://www.toptal.com/developers/gitignore?templates=terraform
+
+### Terraform ###
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
