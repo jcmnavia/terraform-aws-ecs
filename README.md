@@ -1,5 +1,8 @@
 # Terraform template to deploy full stack ECS environment in AWS
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
 ## Elements deployed
 
 - [ ] Aurora DB - <ins>MANUAL</ins>
@@ -17,6 +20,10 @@
 - [x] ALB Target Group
 - [x] ALB Listener - HTTP/HTTPS
 - [x] ECS Service -
+
+## Deployment diagram
+
+[TODO] Create diagram
 
 ## How to execute
 
